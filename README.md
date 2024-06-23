@@ -1,2 +1,3 @@
-# _brand
-Brand Guidelines of NaukaPythona.com. © All rights reserved.
+Brand assets of NaukaPythona.com.
+
+© All rights reserved.
